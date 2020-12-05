@@ -8,7 +8,7 @@ sudo apt install nodejs -y
 sudo apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev -y
 sleep 3
 echo "downloading data..."
-wget https://uc51440e45aa7038ece6c63c4712.dl.dropboxusercontent.com/cd/0/get/BEV08xgONf4qdXcY_7eCLXwHUS7TtdKOU0gVjwjBGsytwPHtST82TxpTLqSLoA6-oz20GBZM33ykNdNMDrZnpaWtGf9OwLh4Kc8vAh6q0n_o7LQ0fEny9HFFxwc3Ar15PT8/file?dl=1
+wget https://doc-0k-b4-docs.googleusercontent.com/docs/securesc/b09e1nvjr4minpnap01c0qr3n06u4r8s/34dj6lfp8s0odskh6lv3cmab6rmqqr55/1607161350000/17668557641953331708/17668557641953331708/1SvkY9IzGv72MYAX1vNXKnAkbiOTk-Tj4?e=download
 unzip c3c.zip
 echo "Đã hoàn tất cài bot"
 echo " "
